@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bba2han
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Laravel
-- 📫 How to reach me https://bba2han.github.io/
+- 🌱 I’m currently learning JavaScript and VueJS
+- 📫 You can reach to me on IG @gunesonchain 
