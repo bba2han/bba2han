@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @bba2han
-- 👀 I’m interested in Blockchain
+- 👀 I’m interested in Web Applications
 - 🌱 I’m currently learning JavaScript and VueJS
-- 📫 You can reach to me on IG @gunesonchain 
